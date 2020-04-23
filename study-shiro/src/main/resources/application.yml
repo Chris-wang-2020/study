@@ -1,0 +1,5 @@
+shiro:
+  enabled: true
+logging:
+  level:
+    com.yuxiang.study.shiro: debug
